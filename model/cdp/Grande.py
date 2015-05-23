@@ -2,4 +2,5 @@ from model.cdp.AbstrcTamanhoCarro import Tamanho
 
 __author__ = 'Gustavo'
 class Grande(Tamanho):
-    pass
+    def criar_tamanho(self):
+        return 15

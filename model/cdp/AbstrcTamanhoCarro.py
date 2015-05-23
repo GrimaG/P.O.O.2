@@ -1,6 +1,5 @@
 __author__ = 'Gustavo'
 class Tamanho:
 
-    def __init__(self):
-        self.lugares
+    def criar_tamanho(self):  raise Exception("Preciso ser implementado")
     pass
