@@ -2,7 +2,7 @@ from model.cdp.Endereco import Endereco
 
 __author__ = 'Gustavo'
 class Pessoa:
-    def __init__(self):
+    def __init__(self, endereco):
         self.cpf = 0
         self.endereco = Endereco()
         self.nome = ""
