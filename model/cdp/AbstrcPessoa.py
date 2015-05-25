@@ -2,10 +2,7 @@ from model.cdp.Endereco import Endereco
 
 __author__ = 'Gustavo'
 class Pessoa:
-    def __init__(self):
-        self.cpf
-        self.end = Endereco()
-        self.nome
-        self.telefone
-
-    pass
+        cpf = 0
+        endereco = Endereco()
+        nome = ""
+        telefone = 0
