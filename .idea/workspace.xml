@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8b7564ea-ef2b-441d-8e38-558e7883d8f0" name="Default" comment="">
       <change type="DELETED" beforePath="D:\_BASE\_SISTEMAS\_PYTHON\taxipoo2\~$latorio.docx" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/cdp/NotificaTaxista.py" afterPath="$PROJECT_DIR$/model/cdp/NotificaTaxista.py" />
     </list>
     <ignored path="POO2-Ruby.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,31 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NotificaTaxista.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/model/cdp/NotificaTaxista.py">
+      <file leaf-file-name="Viagem.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/model/cdp/Viagem.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23466258">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Endereco.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/cdp/Endereco.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FabricaBasico.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/cdp/FabricaBasico.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.31288344">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -870,16 +849,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/cdp/Viagem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31288344">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#53#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model/cdp/Motorista.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15644172">
@@ -888,18 +857,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/cdp/FabricaBasico.py">
+    <entry file="file://$PROJECT_DIR$/model/cdp/NotificaTaxista.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.23466258">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/model/cdp/Endereco.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.05214724">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/cdp/FabricaBasico.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18251534">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -912,10 +889,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/cdp/NotificaTaxista.py">
+    <entry file="file://$PROJECT_DIR$/model/cdp/Viagem.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23466258">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.31288344">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
           <folding />
         </state>
       </provider>
