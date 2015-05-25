@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-__author__ = 'pchan'
-
-class NotificaTaxista():
-    def __init__(self):
-
-        def Notifica(self):
-            print('Notificacao')
-
-=======
 __author__ = 'Gustavo'
 class Notifica():
 
@@ -27,4 +17,4 @@ class Notifica():
                 if viagem == "aberto":
                     return viagem
             return 0
->>>>>>> 4b298289898ef1abeb8a7a816db1264ba76014a2
+
