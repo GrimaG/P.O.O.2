@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b7564ea-ef2b-441d-8e38-558e7883d8f0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/cdp/AbstrcEstiloCarro.py" afterPath="$PROJECT_DIR$/model/cdp/AbstrcEstiloCarro.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/cdp/AbstrcFabricaCarro.py" afterPath="$PROJECT_DIR$/model/cdp/AbstrcFabricaCarro.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/cdp/AbstrcPessoa.py" afterPath="$PROJECT_DIR$/model/cdp/AbstrcPessoa.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/cdp/AbstrcTamanhoCarro.py" afterPath="$PROJECT_DIR$/model/cdp/AbstrcTamanhoCarro.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/cdp/FabricaCarro.py" afterPath="$PROJECT_DIR$/model/cdp/FabricaCarro.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/cdp/Viagem.py" afterPath="$PROJECT_DIR$/model/cdp/Viagem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/cdp/NotificaTaxista.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="POO2-Ruby.iws" />
@@ -29,63 +24,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="AbstrcPessoa.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/cdp/AbstrcPessoa.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NotificaTaxista.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/model/cdp/NotificaTaxista.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.1303681">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Endereco.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model/cdp/Endereco.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Motorista.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/cdp/Motorista.py">
+      <file leaf-file-name="FabricaBasico.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/cdp/FabricaBasico.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Viagem.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/cdp/Viagem.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-              <folding>
-                <element signature="e#0#53#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Atendente.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/cdp/Atendente.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cliente.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/cdp/Cliente.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FabricaCarro.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/model/cdp/FabricaCarro.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15644172">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -128,6 +101,7 @@
         <option value="$PROJECT_DIR$/model/cdp/AbstrcTamanhoCarro.py" />
         <option value="$PROJECT_DIR$/model/cdp/AbstrcFabricaCarro.py" />
         <option value="$PROJECT_DIR$/model/cdp/Viagem.py" />
+        <option value="$PROJECT_DIR$/model/cdp/NotificaTaxista.py" />
       </list>
     </option>
   </component>
@@ -534,16 +508,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/model/cdp/FabicaTeste.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#49#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model/cdp/Endereco.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -842,30 +806,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/cdp/AbstrcPessoa.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18251534">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/cdp/Cliente.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/cdp/Atendente.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model/cdp/Luxo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.10429448">
@@ -890,14 +830,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/cdp/Endereco.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model/cdp/AbstrcEstiloCarro.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.07822086">
@@ -914,25 +846,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/cdp/FabricaBasico.py">
+    <entry file="file://$PROJECT_DIR$/model/cdp/FabricaCarro.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18251534">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.15644172">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/cdp/Motorista.py">
+    <entry file="file://$PROJECT_DIR$/model/cdp/Cliente.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.15644172">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/cdp/Atendente.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10429448">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/model/cdp/Viagem.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.31288344">
           <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
           <folding>
             <element signature="e#0#53#0" expanded="true" />
@@ -940,10 +880,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/cdp/FabricaCarro.py">
+    <entry file="file://$PROJECT_DIR$/model/cdp/Motorista.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15644172">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/cdp/Endereco.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/cdp/AbstrcPessoa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/cdp/FabricaBasico.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/cdp/NotificaTaxista.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1303681">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
           <folding />
         </state>
       </provider>
