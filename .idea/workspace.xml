@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b7564ea-ef2b-441d-8e38-558e7883d8f0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/cdp/Endereco.py" afterPath="$PROJECT_DIR$/model/cdp/Endereco.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/cdp/Cliente.py" afterPath="$PROJECT_DIR$/model/cdp/Cliente.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/cdp/Motorista.py" afterPath="$PROJECT_DIR$/model/cdp/Motorista.py" />
     </list>
     <ignored path="POO2-Ruby.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/model/cdp/Motorista.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.15644172">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -68,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/model/cdp/Cliente.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -106,11 +106,11 @@
         <option value="$PROJECT_DIR$/model/cdp/FabricaVip.py" />
         <option value="$PROJECT_DIR$/model/cdp/FabricaCarro.py" />
         <option value="$PROJECT_DIR$/model/cdp/FabicaTeste.py" />
-        <option value="$PROJECT_DIR$/model/cdp/Motorista.py" />
         <option value="$PROJECT_DIR$/model/cdp/AbstrcPessoa.py" />
         <option value="$PROJECT_DIR$/model/cdp/Atendente.py" />
-        <option value="$PROJECT_DIR$/model/cdp/Cliente.py" />
         <option value="$PROJECT_DIR$/model/cdp/Endereco.py" />
+        <option value="$PROJECT_DIR$/model/cdp/Cliente.py" />
+        <option value="$PROJECT_DIR$/model/cdp/Motorista.py" />
       </list>
     </option>
   </component>
@@ -890,22 +890,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/cdp/Cliente.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/cdp/Atendente.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model/cdp/AbstrcPessoa.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -922,10 +906,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/model/cdp/Atendente.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/cdp/Cliente.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/model/cdp/Motorista.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15644172">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding />
         </state>
       </provider>
