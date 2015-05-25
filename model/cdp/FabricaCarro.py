@@ -5,7 +5,7 @@ from model.cdp.FabricaVip import FabricaVip
 
 __author__ = 'Gustavo'
 class Fabrica:
-    def __init__(self):
+    def __init__(self, estilo):
         self.carro = FabricaCarro()
 
     def criar_carro(self,estilo):

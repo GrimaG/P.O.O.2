@@ -1,6 +1,8 @@
 
 __author__ = 'Gustavo'
-class FabricaCarro:
+class FabricaCarro():
     def criarCarro(self):
-       raise Exception("Preciso ser implementado")
-    pass
+        print("Criando carro")
+
+    def criarTamanho(self):
+        print("Criando tamanho")
