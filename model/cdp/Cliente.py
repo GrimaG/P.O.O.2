@@ -4,4 +4,4 @@ __author__ = 'Gustavo'
 class Cliente(Pessoa):
     def __init__(self):
         super(Cliente, self).__init__()
-        self.email = ""
+        self.email = " "
